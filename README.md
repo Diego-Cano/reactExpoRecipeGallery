@@ -1,2 +1,4 @@
 # reactExpoRecipeGallery
- App Developemt Class Assingment 
+In developing my interactive recipe gallery app with React Native and Expo, I opted for a straightforward design to highlight Venezuelan culinary traditions. For navigation, I implemented React's useState hook and maintained a simple user interface featuring essential "Next" and "Previous" buttons. I chose warm colors  to mirror the rich flavors of Venezuelan cuisine.
+
+Customizing the navigation buttons presented a challenge due to React Native's Button component limitations in terms of styling flexibility. I contemplated switching to TouchableOpacity for greater style control but ultimately retained the original setup for its simplicity. Additionally, I  managed the navigation state to prevent users from moving beyond the available images, ensuring a smooth user experience. 
